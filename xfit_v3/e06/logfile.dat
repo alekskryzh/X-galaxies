@@ -1,0 +1,61 @@
+2020.07.06 18:52:04 : Starting computation
+2020.07.06 18:52:04 : Creating ellipse with user-defined parameters
+2020.07.06 18:52:05 : Performing the general fit on the reference ellipse.
+2020.07.06 18:56:34 : Fitting lobe for the reference ellipse.
+2020.07.06 18:56:36 : Starting outward iteration
+2020.07.06 18:56:36 : Working with r=25
+2020.07.06 18:56:36 : Performing general fit
+2020.07.06 19:01:03 : Fitting lobes
+2020.07.06 19:01:04 : Working with r=27
+2020.07.06 19:01:05 : Performing general fit
+2020.07.06 19:05:35 : Fitting lobes
+2020.07.06 19:05:36 : Working with r=29
+2020.07.06 19:05:36 : Performing general fit
+2020.07.06 19:09:42 : Fitting lobes
+2020.07.06 19:09:43 : Working with r=31
+2020.07.06 19:09:43 : Performing general fit
+2020.07.06 19:14:28 : Fitting lobes
+2020.07.06 19:14:29 : Working with r=33
+2020.07.06 19:14:29 : Performing general fit
+2020.07.06 19:17:48 : Working with r=35
+2020.07.06 19:17:48 : Performing general fit
+2020.07.06 19:22:06 : Working with r=37
+2020.07.06 19:22:06 : Performing general fit
+2020.07.06 19:27:00 : Fitting lobes
+2020.07.06 19:27:01 : Working with r=39
+2020.07.06 19:27:01 : Performing general fit
+2020.07.06 19:32:03 : Fitting lobes
+2020.07.06 19:32:04 : Starting inward iteration
+2020.07.06 19:32:04 : fitting the ellipse for r=24
+2020.07.06 19:32:05 : Performing general fit
+2020.07.06 19:36:26 : Fitting lobes
+2020.07.06 19:36:27 : fitting the ellipse for r=22
+2020.07.06 19:36:27 : Performing general fit
+2020.07.06 19:40:53 : Fitting lobes
+2020.07.06 19:40:54 : fitting the ellipse for r=20
+2020.07.06 19:40:55 : Performing general fit
+2020.07.06 19:45:12 : Fitting lobes
+2020.07.06 19:45:13 : fitting the ellipse for r=18
+2020.07.06 19:45:14 : Performing general fit
+2020.07.06 19:49:25 : Fitting lobes
+2020.07.06 19:49:27 : fitting the ellipse for r=16
+2020.07.06 19:49:27 : Performing general fit
+2020.07.06 19:53:30 : Fitting lobes
+2020.07.06 19:53:31 : fitting the ellipse for r=14
+2020.07.06 19:53:31 : Performing general fit
+2020.07.06 19:57:30 : Fitting lobes
+2020.07.06 19:57:31 : fitting the ellipse for r=12
+2020.07.06 19:57:31 : Performing general fit
+2020.07.06 20:01:26 : fitting the ellipse for r=10
+2020.07.06 20:01:26 : Performing general fit
+2020.07.06 20:05:15 : fitting the ellipse for r=8
+2020.07.06 20:05:15 : Performing general fit
+2020.07.06 20:08:45 : fitting the ellipse for r=6
+2020.07.06 20:08:45 : Performing general fit
+2020.07.06 20:11:31 : fitting the ellipse for r=4
+2020.07.06 20:11:31 : Performing general fit
+2020.07.06 20:14:56 : Fitting lobes
+2020.07.06 20:14:58 : fitting the ellipse for r=2
+2020.07.06 20:14:58 : Performing general fit
+2020.07.06 20:18:17 : Fitting lobes
+2020.07.06 20:18:28 : The iterations are done

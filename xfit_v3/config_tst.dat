@@ -1,0 +1,20 @@
+# A config file for xfit program
+# All parameters can be overwritten in the comand line with corresponging "--" key
+
+# A set of important parameters. Should be set carefully for every run
+x_center:    52.6      # x-coordinate of the galaxy center. -1 means image center
+y_center:    20     # y-coordinate of the galaxy center. -1 means image center
+ref_radius:  10       # Radius of the reference ellipse
+min_radius:  2        # Minimal radius to try to fit an ellipse
+max_radius:  39       # Maximal radius to try to fit an ellipse
+step:        2        # Step in pixels
+ref_ellipse: null     # Name of the file with the reference object or `null` if none given
+
+# Ellipse parameters. Set to 'null if one wants them to be fitted
+fix_ellipse: True  # Do not fit the ellipses and use values below (True or False)
+ell_ellipticity:  0.6  # Ellipticity of the ellipse
+ell_posang:   1  # Position angle of the ellipse [degrees]
+
+# Less important parameters. The defaults are probably fine
+verbose:     true    # Give more detailed information of the fit (false/true)
+results_dir: tst  # Name of the directory for saving results

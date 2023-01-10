@@ -1,0 +1,37 @@
+2020.07.05 13:10:32 : Starting computation
+2020.07.05 13:10:32 : Creating ellipse with user-defined parameters
+2020.07.05 13:10:33 : Performing the general fit on the reference ellipse.
+2020.07.05 13:13:11 : Fitting lobe for the reference ellipse.
+2020.07.05 13:13:12 : Starting outward iteration
+2020.07.05 13:13:12 : Working with r=10
+2020.07.05 13:13:12 : Performing general fit
+2020.07.05 13:15:54 : Fitting lobes
+2020.07.05 13:15:55 : Working with r=12
+2020.07.05 13:15:55 : Performing general fit
+2020.07.05 13:19:49 : Fitting lobes
+2020.07.05 13:19:50 : Working with r=14
+2020.07.05 13:19:50 : Performing general fit
+2020.07.05 13:22:00 : Fitting lobes
+2020.07.05 13:22:02 : Working with r=16
+2020.07.05 13:22:02 : Performing general fit
+2020.07.05 13:24:02 : Fitting lobes
+2020.07.05 13:24:03 : Working with r=18
+2020.07.05 13:24:03 : Performing general fit
+2020.07.05 13:25:30 : Fitting lobes
+2020.07.05 13:25:31 : Working with r=20
+2020.07.05 13:25:32 : Performing general fit
+2020.07.05 13:26:54 : Fitting lobes
+2020.07.05 13:26:55 : Starting inward iteration
+2020.07.05 13:26:55 : fitting the ellipse for r=9
+2020.07.05 13:26:56 : Performing general fit
+2020.07.05 13:30:36 : Fitting lobes
+2020.07.05 13:30:37 : fitting the ellipse for r=7
+2020.07.05 13:30:38 : Performing general fit
+2020.07.05 13:33:50 : Fitting lobes
+2020.07.05 13:33:51 : fitting the ellipse for r=5
+2020.07.05 13:33:51 : Performing general fit
+2020.07.05 13:36:11 : Fitting lobes
+2020.07.05 13:36:12 : fitting the ellipse for r=3
+2020.07.05 13:36:12 : Performing general fit
+2020.07.05 13:39:35 : Fitting lobes
+2020.07.05 13:39:36 : The iterations are done

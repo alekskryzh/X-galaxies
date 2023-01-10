@@ -1,0 +1,63 @@
+2023.01.10 05:35:02 : Starting computation
+2023.01.10 05:35:02 : Creating ellipse with user-defined parameters
+2023.01.10 05:35:03 : Performing the general fit on the reference ellipse.
+2023.01.10 05:38:17 : Fitting lobe for the reference ellipse.
+2023.01.10 05:38:20 : Starting outward iteration
+2023.01.10 05:38:20 : Working with r=10
+2023.01.10 05:38:20 : Performing general fit
+2023.01.10 05:41:34 : Fitting lobes
+2023.01.10 05:41:35 : Working with r=12
+2023.01.10 05:41:35 : Performing general fit
+2023.01.10 05:44:57 : Fitting lobes
+2023.01.10 05:44:58 : Working with r=14
+2023.01.10 05:44:58 : Performing general fit
+2023.01.10 05:48:26 : Fitting lobes
+2023.01.10 05:48:27 : Working with r=16
+2023.01.10 05:48:27 : Performing general fit
+2023.01.10 05:51:58 : Fitting lobes
+2023.01.10 05:52:01 : Working with r=18
+2023.01.10 05:52:01 : Performing general fit
+2023.01.10 05:55:34 : Fitting lobes
+2023.01.10 05:55:35 : Working with r=20
+2023.01.10 05:55:35 : Performing general fit
+2023.01.10 05:59:15 : Fitting lobes
+2023.01.10 05:59:16 : Working with r=22
+2023.01.10 05:59:17 : Performing general fit
+2023.01.10 06:03:01 : Fitting lobes
+2023.01.10 06:03:05 : Working with r=24
+2023.01.10 06:03:07 : Performing general fit
+2023.01.10 06:06:55 : Fitting lobes
+2023.01.10 06:06:57 : Working with r=26
+2023.01.10 06:06:57 : Performing general fit
+2023.01.10 06:10:46 : Fitting lobes
+2023.01.10 06:10:47 : Working with r=28
+2023.01.10 06:10:47 : Performing general fit
+2023.01.10 06:14:39 : Fitting lobes
+2023.01.10 06:14:40 : Working with r=30
+2023.01.10 06:14:40 : Performing general fit
+2023.01.10 06:18:36 : Fitting lobes
+2023.01.10 06:18:37 : Working with r=32
+2023.01.10 06:18:37 : Performing general fit
+2023.01.10 06:22:17 : Fitting lobes
+2023.01.10 06:22:18 : Working with r=34
+2023.01.10 06:22:18 : Performing general fit
+2023.01.10 06:26:21 : Fitting lobes
+2023.01.10 06:26:23 : Working with r=36
+2023.01.10 06:26:23 : Performing general fit
+2023.01.10 06:30:30 : Fitting lobes
+2023.01.10 06:30:31 : Working with r=38
+2023.01.10 06:30:31 : Performing general fit
+2023.01.10 06:34:44 : Fitting lobes
+2023.01.10 06:34:45 : Starting inward iteration
+2023.01.10 06:34:45 : fitting the ellipse for r=9
+2023.01.10 06:34:45 : Performing general fit
+2023.01.10 06:37:57 : Fitting lobes
+2023.01.10 06:37:58 : fitting the ellipse for r=7
+2023.01.10 06:37:58 : Performing general fit
+2023.01.10 06:41:03 : fitting the ellipse for r=5
+2023.01.10 06:41:04 : Performing general fit
+2023.01.10 06:44:05 : Fitting lobes
+2023.01.10 06:44:06 : fitting the ellipse for r=3
+2023.01.10 06:44:06 : Performing general fit
+2023.01.10 06:47:00 : Fitting lobes
+2023.01.10 06:47:02 : The iterations are done
